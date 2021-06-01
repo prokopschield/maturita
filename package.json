@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "nodesite-webftp": "^0.0.4"
+  },
+  "main": "./app.js"
+}
